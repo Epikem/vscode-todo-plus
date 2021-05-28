@@ -1,3 +1,5 @@
+### Version 4.19.0
+- Add support GFM(github flavored markdown) style todoes.
 ### Version 4.18.3
 - Updated one regex matching projects to behave more predictably
 - Temporarily disabled support for AG and RG as embedded todos providers as a workaround
